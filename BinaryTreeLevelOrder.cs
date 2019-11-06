@@ -1,6 +1,4 @@
- *     public TreeNode(int x) { val = x; }
- * }
- */
+//https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/
 public class Solution {
     public IList<IList<int>> LevelOrder(TreeNode root) {
         
